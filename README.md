@@ -1,0 +1,2 @@
+# PROYECTO-SYNC-PARALLEL
+Proyecto terminado SYNC Y PARALLEL
