@@ -1,0 +1,15 @@
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\bin\Debug\net8.0\Lectura de archivos.exe
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\bin\Debug\net8.0\Lectura de archivos.deps.json
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\bin\Debug\net8.0\Lectura de archivos.runtimeconfig.json
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\bin\Debug\net8.0\Lectura de archivos.dll
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\bin\Debug\net8.0\Lectura de archivos.pdb
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.AssemblyInfoInputs.cache
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.AssemblyInfo.cs
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.csproj.CoreCompileInputs.cache
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.dll
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\refint\Lectura de archivos.dll
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.pdb
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.genruntimeconfig.cache
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\ref\Lectura de archivos.dll
+C:\Users\Lione\source\repos\Lectura de archivos\Lectura de archivos\obj\Debug\net8.0\Lectura de archivos.sourcelink.json
